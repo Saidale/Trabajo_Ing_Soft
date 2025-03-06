@@ -7,7 +7,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Configuración de conexión a MySQL
     $host = 'localhost';
     $usuario = 'root';
-    $password = '';
+    $password = '123456';
     $basedatos = 'bd_cita';
 
     // Crear la conexión
